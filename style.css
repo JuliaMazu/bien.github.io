@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #252323;
+    font-family: Papyrus, sans-serif;
+    }
+    
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Didot, serif;
+    }
+
+    h2{
+        font-size: 20px;
+        text-align: center;
+        color: #252323;
+        font-family: Papyrus, sans-serif;
+        }
+    
+    select {
+            font-size: 20px; 
+            font-family: Didot, serif;/* Set your desired font size */
+          }
+        
+          /* Style the options within the select */
+          option {
+            font-size: 20px; /* Set your desired font size */
+          }
